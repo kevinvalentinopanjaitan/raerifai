@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raerifai
 - 👀 I’m interested in create automation, web development, front end dev
 - 🌱 I’m currently learning Javascript, ReactJS, Google Script
-- 💞️ I’m looking to collaborate on NONE
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kevin.valentino.panjaitan@gmail.com
 
 <!---
